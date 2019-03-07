@@ -1,0 +1,15 @@
+{
+    "name":"Favorzao",
+    "short_name":"Favorzao",
+    "theme_color":"blue",
+    "background_color": "blue",
+    "display": "standalone",
+    "start_url": "/",
+    "icons": [
+        {
+        "src": "icon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+        }
+    ]
+}
